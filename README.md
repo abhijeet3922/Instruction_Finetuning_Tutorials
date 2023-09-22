@@ -1,5 +1,5 @@
 # PyCon 2023 Workshop: Instruction FineTuning
-![icon](./pycon.PNG)
+![icon](./pycon.JPG)
 
 Welcome to the repository. This work is created for participants of a workshop track at PyCon 2023.
 
